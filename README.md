@@ -1,9 +1,10 @@
 # Macchanger
 AS EASY AS it can get to change your macaddress and revert it back also
+
 WARNING - I AM NOT ENCOURAGING YOU FROM ILLEGAL ACTIVITIES .DO ANYTHING WITH A PRIOR CONSENT OF A PERSON.JUST FOR EDUCATIONAL PURPOSES.
 
 THIS WILL ONLY WORK IF YOU ARE USING wlan0 AS THE YOUR NETWORK INTERFACE
-OR YOU CAN EDIT THE SCRIPT AND TYPE YOUR NETWORK INTERFCACE(eth0 or other) IN PLACE OF wlan0
+OR YOU CAN EDIT THE SCRIPT AND TYPE YOUR NETWORK INTERFACE(eth0 or other) IN PLACE OF wlan0
  
 
 these script are for changing your mac address which provides you more anonymity . Its an important step cause if you try to dos
