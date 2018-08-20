@@ -28,5 +28,5 @@ chmod +x mac_stop
 this will revert the maccadress back to permanent one.
 
 
-YOU DONT GOTTA DONATE FOR THIS ONE . IM NOT GREEDY !! 
+YOU DONT GOTTA DONATE FOR THIS ONE .!LMAO! 
 THANKS!
